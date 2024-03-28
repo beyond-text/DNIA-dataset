@@ -1,0 +1,31 @@
+audio_name,transcription,type,choices,annotation
+LU_001.wav,go straight down the hallway and take the second left then go straight down the hallway again and when you see the automation office turn left probably and you will see that B,LU,"""A: Go straight down the hallway, take the second left, then go straight down the hallway again, and when you see the automation office, turn left and look for Lab B
+B: Go straight down the hallway, take the second left, then go straight down the hallway again, and when you see the automation office, continue straight and ask other people for further instruction
+C: Go straight down the hallway, take the first left, then go straight down the hallway again, and when you see the automation office, turn left and look for Lab B
+D: Go straight down the hallway, take the second left, then go straight down the hallway again, and before reaching the automation office, ask another person for detailed guidance
+E: Ask another person near you for direction""",D
+LU_002.wav,So you're going to go straight right now past the cafeteria and turn right. Well I'm not 100 certain but I believe the directions after you pass the cafeteria is turn right and when you see the locker room you turn left and pass the locker room you turn right again and keep going you will see the door of a real lockdown that just goes under schoolura.com,LU,"""A: Go straight right now past the cafeteria and turn right, then ask other people for further instruction
+B: Go straight right now past the cafeteria and turn left, then ask other people for further instruction
+C: Go straight right now past the cafeteria and continue straight, then ask other people for further instruction
+D: Go straight right now past the cafeteria and turn right, when you see the locker room turn left, then ask other people for further instruction
+E: Ask another person near you for direction""",A
+LU_003.wav,"So first you want to go straight and you take the second right turn and then if you go straight again all the way down the hole and you should see the cafeteria is on your right. No, I think if you go straight again you will see the cafeteria is on your left.",LU,"A: Go straight, take the second right turn, and then go straight again all the way down the hall, and look for the cafeteria on the right
+B: Go straight, take the second right turn, and then go straight again all the way down the hall, and look for the cafeteria on the left
+C: Go straight, take the second right turn, and then go straight again all the way down the hall, and ask other people for further instruction
+D: Go straight, take the first right turn, and then go straight again all the way down the hall, and look for the cafeteria on the right
+E: Ask another person near you for direction",C
+VU_001.wav,Go straight and make a third right turn and the destination will be on your right.,VU,"A: Go straight and make a third right turn and the destination will be on your right
+B: Go straight and make the first right turn and then ask other people for further instruction
+C: Go straight and make the second right turn and then ask other people for further instruction
+D: Go straight and make a third right turn, then verify with another person if the destination is on your right
+E: Ask another person near you for direction",D
+VU_002.wav,"To get to the cafeteria from the mail office, first, go straight and then turn right after the washroom. And then you should go straight and the cafeteria should be at the end of the hallway.",VU,"A: Go straight from the mail office and turn right after the washroom, then go straight until the end of the hallway where the cafeteria should be
+B: Go straight from the mail office and turn left after the washroom, then go straight until the end of the hallway where the cafeteria should be
+C: Go straight from the mail office and turn right after the washroom, then ask other people for further instruction
+D: Go straight from the mail office and turn right before the washroom, then go straight until the end of the hallway where the cafeteria should be
+E: Ask another person near you for direction",C
+VU_003.wav,"When you see the library turn left and then go straight, pathing the stationery and then when you see lab A, turn to your right and go all the way straight.",VU,"""A: When you see the library, turn left, then go straight, passing the stationery, and when you see lab A, turn to your right and go all the way straight
+B: When you see the library, turn left, then go straight, passing the stationery, and when you see lab A, turn to your left and go all the way straight
+C: When you see the library, turn right, then go straight, passing the stationery, and when you see lab A, turn to your right and go all the way straight
+D: When you see the library, turn left, then go straight, passing the stationery, and when you see lab A, ask another person for further instruction
+E: Ask another person near you for direction""",D
